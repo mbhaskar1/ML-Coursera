@@ -11,4 +11,6 @@ Includes any programs I made while taking the Machine Learning course by Andrew 
 
 **k_means.ipynb:** An implementation of the k-means clustering algorithm taught in the course using blobs for data and repeated trials to avoid local optima.
 
-**pca.ipynb:** An implementation of the principal component analysis algorithm tuaght in the course. Uses blobs for data, does preprocessing step, shows visualizations of data in 3D and reduced data in 2D, and shows percentage of variance retained.
+**pca.ipynb:** An implementation of the principal component analysis algorithm taught in the course. Uses blobs for data, does preprocessing step, shows visualizations of data in 3D and reduced data in 2D, and shows percentage of variance retained.
+
+**anomaly_detection.ipynb:** An implementation of the anomaly detection algorithm taught in the course. Uses multivariate gaussian distributions and graphs those distributions using contour plots and 3d surface plots.
