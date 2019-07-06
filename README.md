@@ -10,3 +10,5 @@ Includes any programs I made while taking the Machine Learning course by Andrew 
 **support_vector_machine.ipynb:** An implementation of the support vector machine algorithm taught in the course using cvxopt to solve the Quadratic Programming problem. Implements standard linear kernel and polynomial kernel for non-linearly separable cases.
 
 **k_means.ipynb:** An implementation of the k-means clustering algorithm taught in the course using blobs for data and repeated trials to avoid local optima.
+
+**pca.ipynb:** An implementation of the principal component analysis algorithm tuaght in the course. Uses blobs for data, does preprocessing step, shows visualizations of data in 3D and reduced data in 2D, and shows percentage of variance retained.
