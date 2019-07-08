@@ -14,3 +14,5 @@ Includes any programs I made while taking the Machine Learning course by Andrew 
 **pca.ipynb:** An implementation of the principal component analysis algorithm taught in the course. Uses blobs for data, does preprocessing step, shows visualizations of data in 3D and reduced data in 2D, and shows percentage of variance retained.
 
 **anomaly_detection.ipynb:** An implementation of the anomaly detection algorithm taught in the course. Uses multivariate gaussian distributions and graphs those distributions using contour plots and 3d surface plots.
+
+**collaborative_filtering.ipynb:** An implementation of the collaborative filtering algorithm taught in the course. Uses a vectorized version of the gradient descent algorithm the course shows and uses regularization to avoid overfitting.
